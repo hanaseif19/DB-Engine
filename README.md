@@ -12,7 +12,7 @@ DB mini engine for Database II course that supports B+ tree Index
    - Selection from Tables
      
 2. **Index Operations:**
-   - Creation of Indexes
+   - Creation of B+ Tree Indices
 
 3. **SQL Parsing:**
    - Utilization of ANTLR
