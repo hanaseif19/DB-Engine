@@ -24,7 +24,7 @@ We'd like to thank the following people who have contributed to this project:
 
 - [Diana Rehan](https://github.com/dianarehan) 
 - [Hana Seif](https://github.com/hanaseif19)
-- [Nada Shetewi](https://github.com/charliebrown) 
-- [Merna Mohammed](https://github.com/charliebrown)
-- [Mennah Mohamed](https://github.com/charliebrown)
-- [Yara ELkousy](https://github.com/charliebrown)
+- [Nada Shetewi](https://github.com/NadaShetewi)
+- [Merna Mohammed](https://github.com/MernaSenger)
+- [Mennah Mohamed](https://github.com/mennahmohamed)
+- [Yara ELkousy](https://github.com/YaraElkousy)
