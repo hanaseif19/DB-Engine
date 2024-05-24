@@ -23,7 +23,7 @@ DB mini engine for Database II course that supports B+ tree Index
 We'd like to thank the following people who have contributed to this project:
 
 - [Diana Rehan](https://github.com/dianarehan) 
-- [Hana Seif](https://github.com/bobjones) 
+- [Hana Seif](https://github.com/hanaseif19)
 - [Nada Shetewi](https://github.com/charliebrown) 
 - [Merna Mohammed](https://github.com/charliebrown)
 - [Mennah Mohamed](https://github.com/charliebrown)
